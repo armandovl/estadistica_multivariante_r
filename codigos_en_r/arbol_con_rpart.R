@@ -1,6 +1,5 @@
 
 #......... Se cargan las bibliotecas...........#
-
 #biblioteca para leer archivos de excel
 library(readxl)
 #bibliotecas para hacer el módelo
@@ -19,7 +18,6 @@ library(caret)
 #......... Cargar, inspeccionar y depurar datos...........#
 # cargamos el data set
 Datos1<-read_excel("bases_de_datos/datos_covid_30_mayo_2020.xlsx")
-
 # cargamos desde github (solo csv)
 miURL<-"https://raw.githubusercontent.com/armandovl/estadistica_multivariante_r/main/bases_de_datos/datos_covid_30_mayo_2020.csv"
 Datos1<-read.csv(url(miURL))
@@ -41,7 +39,8 @@ modelo1<-rpart(ESTIMADOS_SINTOMAS~.,
 #ver importancia de las variables
 importanciaV<-varImp(modelo1)
 print(importanciaV)
-#vemos el resultado
+
+#vemos el resultado falta*
 rpart.plot(modelo1,type=4)
 
 
