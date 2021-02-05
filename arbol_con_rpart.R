@@ -25,6 +25,11 @@ library(caret)
 # cargamos el data set
 Datos1<-read_excel("bases_de_datos/datos_covid_30_mayo_2020.xlsx")
 
+# cargamos desde github (solo csv)
+miURL<-"https://raw.githubusercontent.com/armandovl/estadistica_multivariante_r/main/bases_de_datos/datos_covid_30_mayo_2020.csv"
+Datos1<-read.csv(url(miURL))
+
+
 str(Datos1) #estructura de los datos
 
 View(head(Datos1,10)) #ver primeros registros
