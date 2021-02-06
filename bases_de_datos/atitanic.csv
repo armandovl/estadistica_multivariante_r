@@ -1,0 +1,715 @@
+PassengerId,Name,Age,Pclass,Sex,Family,Embarked,Survived
+631,"Barkworth, Mr. Algernon Henry Wilson",80,1,male,0,S,vive
+852,"Svensson, Mr. Johan",74,3,male,0,S,muere
+97,"Goldschmidt, Mr. George B",71,1,male,0,C,muere
+494,"Artagaveytia, Mr. Ramon",71,1,male,0,C,muere
+117,"Connors, Mr. Patrick",70.5,3,male,0,Q,muere
+673,"Mitchell, Mr. Henry Michael",70,2,male,0,S,muere
+746,"Crosby, Capt. Edward Gifford",70,1,male,2,S,muere
+34,"Wheadon, Mr. Edward H",66,2,male,0,S,muere
+457,"Millet, Mr. Francis Davis",65,1,male,0,S,muere
+281,"Duane, Mr. Frank",65,3,male,0,Q,muere
+55,"Ostby, Mr. Engelhart Cornelius",65,1,male,1,C,muere
+546,"Nicholson, Mr. Arthur Ernest",64,1,male,0,S,muere
+439,"Fortune, Mr. Mark",64,1,male,5,S,muere
+484,"Turkula, Mrs. (Hedwig)",63,3,female,0,S,vive
+276,"Andrews, Miss. Kornelia Theodosia",63,1,female,1,S,vive
+830,"Stone, Mrs. George Nelson (Martha Evelyn)",62,1,female,0,s,vive
+556,"Wright, Mr. George",62,1,male,0,S,muere
+253,"Stead, Mr. William Thomas",62,1,male,0,S,muere
+571,"Harris, Mr. George",62,2,male,0,S,vive
+626,"Sutton, Mr. Frederick",61,1,male,0,S,muere
+327,"Nysveen, Mr. Johan Hansen",61,3,male,0,S,muere
+171,"Van der hoef, Mr. Wyckoff",61,1,male,0,S,muere
+695,"Weir, Col. John",60,1,male,0,S,muere
+367,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",60,1,female,1,C,vive
+685,"Brown, Mr. Thomas William Solomon",60,2,male,2,S,muere
+588,"Frolicher-Stehli, Mr. Maxmillian",60,1,male,2,C,vive
+95,"Coxon, Mr. Daniel",59,3,male,0,S,muere
+233,"Sjostedt, Mr. Ernst Adolf",59,2,male,0,S,muere
+196,"Lurette, Miss. Elise",58,1,female,0,C,vive
+12,"Bonnell, Miss. Elizabeth",58,1,female,0,S,vive
+488,"Kent, Mr. Edward Austin",58,1,male,0,C,muere
+269,"Graham, Mrs. William Thompson (Edith Junkins)",58,1,female,1,S,vive
+660,"Newell, Mr. Arthur Webster",58,1,male,2,C,muere
+773,"Mack, Mrs. (Mary)",57,2,female,0,S,muere
+627,"Kirkland, Rev. Charles Leonard",57,2,male,0,Q,muere
+648,"Simonius-Blumer, Col. Oberst Alfons",56,1,male,0,C,vive
+175,"Smith, Mr. James Clinch",56,1,male,0,C,muere
+468,"Smart, Mr. John Montgomery",56,1,male,0,S,muere
+880,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",56,1,female,1,C,vive
+153,"Meo, Mr. Alfonzo",55.5,3,male,0,S,muere
+16,"Hewlett, Mrs. (Mary D Kingcome) ",55,2,female,0,S,vive
+493,"Molson, Mr. Harry Markland",55,1,male,0,S,muere
+318,"Moraweck, Dr. Ernest",54,2,male,0,S,muere
+7,"McCarthy, Mr. Timothy J",54,1,male,0,S,muere
+583,"Downton, Mr. William James",54,2,male,0,S,muere
+497,"Eustis, Miss. Elizabeth Mussey",54,1,female,1,C,vive
+514,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",54,1,female,1,C,vive
+125,"White, Mr. Percival Wayland",54,1,male,1,S,muere
+250,"Carter, Rev. Ernest Courtenay",54,2,male,1,S,muere
+775,"Hocking, Mrs. Elizabeth (Eliza Needs)",54,2,female,4,S,vive
+572,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",53,1,female,2,S,vive
+450,"Peuchen, Major. Arthur Godfrey",52,1,male,0,S,vive
+696,"Chapman, Mr. Charles Henry",52,2,male,0,S,muere
+715,"Greenberg, Mr. Samuel",52,2,male,0,S,muere
+592,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52,1,female,1,C,vive
+821,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52,1,female,2,S,vive
+263,"Taussig, Mr. Emil",52,1,male,2,S,muere
+407,"Widegren, Mr. Carl/Charles Peter",51,3,male,0,S,muere
+223,"Green, Mr. George Henry",51,3,male,0,S,muere
+632,"Lundahl, Mr. Johan Svensson",51,3,male,0,S,muere
+858,"Daly, Mr. Peter Denis ",51,1,male,0,S,vive
+151,"Bateman, Rev. Robert James",51,2,male,0,S,muere
+766,"Hogeboom, Mrs. John C (Anna Andrews)",51,1,female,1,S,vive
+156,"Williams, Mr. Charles Duane",51,1,male,1,C,muere
+178,"Isham, Miss. Ann Elizabeth",50,1,female,0,C,muere
+459,"Toomey, Miss. Ellen",50,2,female,0,S,vive
+527,"Ridsdale, Miss. Lucy",50,2,female,0,S,vive
+724,"Hodges, Mr. Henry Price",50,2,male,0,S,muere
+483,"Rouse, Mr. Richard Henry",50,3,male,0,S,muere
+260,"Parrish, Mrs. (Lutie Davis)",50,2,female,1,S,vive
+300,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50,1,female,1,C,vive
+545,"Douglas, Mr. Walter Donald",50,1,male,1,C,muere
+435,"Silvey, Mr. William Baird",50,1,male,1,S,muere
+661,"Frauenthal, Dr. Henry William",50,1,male,2,S,vive
+797,"Leader, Dr. Alice (Farnham)",49,1,female,0,S,vive
+598,"Johnson, Mr. Alfred",49,3,male,0,S,muere
+53,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",49,1,female,1,C,vive
+454,"Goldenberg, Mr. Samuel L",49,1,male,1,C,vive
+600,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",49,1,male,1,C,vive
+699,"Thayer, Mr. John Borland",49,1,male,2,C,muere
+863,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",48,1,female,0,S,vive
+464,"Milling, Mr. Jacob Christian",48,2,male,0,S,muere
+772,"Jensen, Mr. Niels Peder",48,3,male,0,S,muere
+461,"Anderson, Mr. Harry",48,1,male,0,S,vive
+557,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",48,1,female,1,C,vive
+713,"Taylor, Mr. Elmer Zebley",48,1,male,1,S,vive
+646,"Harper, Mr. Henry Sleeper",48,1,male,1,C,vive
+755,"Herman, Mrs. Samuel (Jane Laver)",48,2,female,3,S,vive
+737,"Ford, Mrs. Edward (Margaret Ann Watson)",48,3,female,4,S,muere
+463,"Gee, Mr. Arthur H",47,1,male,0,S,muere
+663,"Colley, Mr. Edward Pomeroy",47,1,male,0,S,muere
+587,"Jarvis, Mr. John Denzil",47,2,male,0,S,muere
+874,"Vander Cruyssen, Mr. Victor",47,3,male,0,S,muere
+111,"Porter, Mr. Walter Chamberlain",47,1,male,0,S,muere
+516,"Walker, Mr. William Anderson",47,1,male,0,S,muere
+593,"Elsbury, Mr. William James",47,3,male,0,S,muere
+133,"Robins, Mrs. Alexander A (Grace Charity Laury)",47,3,female,1,S,muere
+872,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",47,1,female,2,S,vive
+790,"Guggenheim, Mr. Benjamin",46,1,male,0,C,muere
+398,"McKane, Mr. Peter David",46,2,male,0,S,muere
+93,"Chaffee, Mr. Herbert Fuller",46,1,male,1,S,muere
+332,"Partner, Mr. Austen",45.5,1,male,0,S,muere
+204,"Youseff, Mr. Gerious",45.5,3,male,0,C,muere
+277,"Lindblom, Miss. Augusta Charlotta",45,3,female,0,S,muere
+707,"Kelly, Mrs. Florence ""Fannie""",45,2,female,0,S,vive
+537,"Butt, Major. Archibald Willingham",45,1,male,0,S,muere
+130,"Ekstrom, Mr. Johan",45,3,male,0,S,muere
+340,"Blackwell, Mr. Stephen Weart",45,1,male,0,S,muere
+188,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",45,1,male,0,S,vive
+339,"Dahl, Mr. Karl Edwart",45,3,male,0,S,vive
+363,"Barbara, Mrs. (Catherine David)",45,3,female,1,C,muere
+63,"Harris, Mr. Henry Birkhardt",45,1,male,1,S,muere
+441,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",45,2,female,2,S,vive
+857,"Wick, Mrs. George Dennick (Mary Hitchcock)",45,1,female,2,S,vive
+168,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",45,3,female,5,S,muere
+195,"Brown, Mrs. James Joseph (Margaret Tobin)",44,1,female,0,C,vive
+604,"Torber, Mr. Ernst William",44,3,male,0,S,muere
+697,"Kelly, Mr. James",44,3,male,0,S,muere
+415,"Sundman, Mr. Johan Julian",44,3,male,0,S,vive
+855,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",44,2,female,1,S,muere
+524,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",44,1,female,1,C,vive
+161,"Cribb, Mr. John Hatfield",44,3,male,1,S,muere
+237,"Hold, Mr. Stephen",44,2,male,1,S,muere
+246,"Minahan, Dr. William Edward",44,1,male,2,Q,muere
+669,"Cook, Mr. Jacob",43,3,male,0,S,muere
+819,"Holm, Mr. John Fredrik Alexander",43,3,male,0,S,muere
+780,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",43,1,female,1,S,vive
+315,"Hart, Mr. Benjamin",43,2,male,2,S,muere
+679,"Goodwin, Mrs. Frederick (Augusta Tyler)",43,3,female,7,S,muere
+381,"Bidois, Miss. Rosalie",42,1,female,0,C,vive
+866,"Bystrom, Mrs. (Karolina)",42,2,female,0,S,vive
+700,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,3,male,0,S,muere
+846,"Abbing, Mr. Anthony",42,3,male,0,S,muere
+350,"Dimic, Mr. Jovan",42,3,male,0,S,muere
+708,"Calderhead, Mr. Edward Pennington",42,1,male,0,S,vive
+289,"Hosono, Mr. Masabumi",42,2,male,0,S,vive
+150,"Byles, Rev. Thomas Roussel Davids",42,2,male,0,S,muere
+433,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",42,2,female,1,S,vive
+36,"Holverson, Mr. Alexander Oskar",42,1,male,1,S,muere
+198,"Olsen, Mr. Karl Siegwart Andreas",42,3,male,1,S,muere
+218,"Jacobsohn, Mr. Sidney Samuel",42,2,male,1,S,muere
+622,"Kimball, Mr. Edwin Nelson Jr",42,1,male,1,S,vive
+338,"Burns, Miss. Elizabeth Margaret",41,1,female,0,C,vive
+762,"Nirva, Mr. Iisakki Antino Aijo",41,3,male,0,S,muere
+273,"Mellinger, Mrs. (Elizabeth Anne Maidment)",41,2,female,1,S,vive
+255,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41,3,female,2,S,muere
+861,"Hansen, Mr. Claus Peter",41,3,male,2,S,muere
+639,"Panula, Mrs. Juha (Maria Emilia Ojala)",41,3,female,5,S,muere
+526,"Farrell, Mr. James",40.5,3,male,0,Q,muere
+154,"van Billiard, Mr. Austin Blyler",40.5,3,male,2,S,muere
+610,"Shutes, Miss. Elizabeth W",40,1,female,0,S,vive
+347,"Smith, Miss. Marion Elsie",40,2,female,0,S,vive
+162,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",40,2,female,0,S,vive
+31,"Uruchurtu, Don. Manuel E",40,1,male,0,C,muere
+562,"Sivic, Mr. Husein",40,3,male,0,S,muere
+662,"Badt, Mr. Mohamed",40,3,male,0,C,muere
+264,"Harrison, Mr. William",40,1,male,0,S,muere
+210,"Blank, Mr. Henry",40,1,male,0,C,vive
+41,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",40,3,female,1,S,muere
+320,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40,1,female,2,C,vive
+671,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",40,2,female,2,S,vive
+189,"Bourke, Mr. John",40,3,male,2,Q,muere
+361,"Skoog, Mr. Wilhelm",40,3,male,5,S,muere
+809,"Meyer, Mr. August",39,2,male,0,S,muere
+706,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",39,2,male,0,S,muere
+812,"Lester, Mr. James",39,3,male,0,S,muere
+529,"Salonen, Mr. Johan Werner",39,3,male,0,S,muere
+796,"Otter, Mr. Richard",39,2,male,0,S,muere
+807,"Andrews, Mr. Thomas Jr",39,1,male,0,S,muere
+401,"Niskanen, Mr. Juha",39,3,male,0,S,vive
+578,"Silvey, Mrs. William Baird (Alice Munger)",39,1,female,1,S,vive
+836,"Compton, Miss. Sara Rebecca",39,1,female,2,C,vive
+559,"Taussig, Mrs. Emil (Tillie Mandelbaum)",39,1,female,2,S,vive
+582,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",39,1,female,2,C,vive
+886,"Rice, Mrs. William (Margaret Norton)",39,3,female,5,Q,muere
+611,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",39,3,female,6,S,muere
+14,"Andersson, Mr. Anders Johan",39,3,male,6,S,muere
+358,"Funk, Miss. Annie Clemmer",38,2,female,0,S,muere
+62,"Icard, Miss. Amelie",38,1,female,0,s,vive
+717,"Endres, Miss. Caroline Louise",38,1,female,0,C,vive
+823,"Reuchlin, Jonkheer. John George",38,1,male,0,S,muere
+472,"Cacic, Mr. Luka",38,3,male,0,S,muere
+466,"Goncalves, Mr. Manuel Estanslas",38,3,male,0,S,muere
+109,"Rekic, Mr. Tido",38,3,male,0,S,muere
+2,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",38,1,female,1,C,vive
+333,"Graham, Mr. George Edward",38,1,male,1,S,muere
+225,"Hoyt, Mr. Frederick Maxfield",38,1,male,1,S,vive
+26,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",38,3,female,6,S,vive
+504,"Laitinen, Miss. Kristina Sofia",37,3,female,0,S,muere
+274,"Natsch, Mr. Charles H",37,1,male,1,C,muere
+138,"Futrelle, Mr. Jacques Heath",37,1,male,1,S,muere
+595,"Chapman, Mr. John Henry",37,2,male,1,S,muere
+105,"Gustafsson, Mr. Anders Vilhelm",37,3,male,2,S,muere
+249,"Beckwith, Mr. Richard Leonard",37,1,male,2,S,vive
+149,"Navratil, Mr. Michel (""Louis M Hoffman"")",36.5,2,male,2,S,muere
+388,"Buss, Miss. Kate",36,2,female,0,S,vive
+326,"Young, Miss. Marie Grice",36,1,female,0,C,vive
+328,"Ball, Mrs. (Ada E Hall)",36,2,female,0,S,vive
+266,"Reeves, Mr. David",36,2,male,0,S,muere
+584,"Ross, Mr. John Hugo",36,1,male,0,C,muere
+180,"Leonard, Mr. Lionel",36,3,male,0,S,muere
+664,"Coleff, Mr. Peju",36,3,male,0,S,muere
+293,"Levy, Mr. Rene Jacques",36,2,male,0,C,muere
+345,"Fox, Mr. Stanley Hubert",36,2,male,0,S,muere
+190,"Turcin, Mr. Stjepan",36,3,male,0,S,muere
+513,"McGough, Mr. James Robert",36,1,male,0,S,vive
+573,"Flynn, Mr. John Irwin (""Irving"")",36,1,male,0,S,vive
+560,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",36,3,female,1,S,vive
+519,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",36,2,female,1,S,vive
+606,"Lindell, Mr. Edvard Bengtsson",36,3,male,1,S,muere
+742,"Cavendish, Mr. Tyrell William",36,1,male,1,S,muere
+680,"Cardeza, Mr. Thomas Drake Martinez",36,1,male,1,C,vive
+541,"Crosby, Miss. Harriet R",36,1,female,2,S,vive
+596,"Van Impe, Mr. Jean Baptiste",36,3,male,2,S,muere
+764,"Carter, Mrs. William Ernest (Lucile Polk)",36,1,female,3,S,vive
+451,"West, Mr. Edwy Arthur",36,2,male,3,S,muere
+391,"Carter, Mr. William Ernest",36,1,male,3,S,vive
+270,"Bissette, Miss. Amelia",35,1,female,0,S,vive
+259,"Ward, Miss. Anna",35,1,female,0,C,vive
+212,"Cameron, Miss. Clear Annie",35,2,female,0,S,vive
+364,"Asim, Mr. Adola",35,3,male,0,S,muere
+21,"Fynney, Mr. Joseph J",35,2,male,0,S,muere
+848,"Markoff, Mr. Marin",35,3,male,0,C,muere
+591,"Rintamaki, Mr. Matti",35,3,male,0,S,muere
+813,"Slemen, Mr. Richard James",35,2,male,0,S,muere
+615,"Brocklebank, Mr. William Alfred",35,3,male,0,S,muere
+5,"Allen, Mr. William Henry",35,3,male,0,S,muere
+738,"Lesurer, Mr. Gustave J",35,1,male,0,C,vive
+605,"Homer, Mr. Harry (""Mr E Haven"")",35,1,male,0,C,vive
+702,"Silverthorne, Mr. Spencer Victor",35,1,male,0,S,vive
+384,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",35,1,female,1,S,vive
+487,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",35,1,female,1,S,vive
+231,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",35,1,female,1,S,vive
+4,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",35,1,female,1,S,vive
+280,"Abbott, Mrs. Stanton (Rosa Hunt)",35,3,female,2,S,vive
+844,"Lemberopolous, Mr. Peter L",34.5,3,male,0,C,muere
+577,"Garside, Miss. Ethel",34,2,female,0,S,vive
+517,"Lemore, Mrs. (Amelia Milley)",34,2,female,0,S,vive
+203,"Johanson, Mr. Jakob Alfred",34,3,male,0,S,muere
+801,"Ponesell, Mr. Martin",34,2,male,0,S,muere
+759,"Theobald, Mr. Thomas Leonard",34,3,male,0,S,muere
+462,"Morley, Mr. William",34,3,male,0,S,muere
+723,"Gillespie, Mr. William Henry",34,2,male,0,S,muere
+448,"Seward, Mr. Frederic Kimber",34,1,male,0,S,vive
+22,"Beesley, Mr. Lawrence",34,2,male,0,S,vive
+99,"Doling, Mrs. John T (Ada Julia Bone)",34,2,female,1,S,vive
+477,"Renouf, Mr. Peter Henry",34,2,male,1,S,muere
+406,"Gale, Mr. Shadrach",34,2,male,1,S,muere
+100,"Kantor, Mr. Sinai",34,2,male,1,S,muere
+417,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",34,2,female,2,S,vive
+617,"Danbom, Mr. Ernst Gilbert",34,3,male,2,S,muere
+873,"Carlsson, Mr. Frans Olof",33,1,male,0,S,muere
+240,"Hunt, Mr. George Henry",33,2,male,0,S,muere
+104,"Johansson, Mr. Gustaf Joel",33,3,male,0,S,muere
+286,"Stankovic, Mr. Ivan",33,3,male,0,C,muere
+882,"Markun, Mr. Johann",33,3,male,0,S,muere
+753,"Vande Velde, Mr. Johannes Joseph",33,3,male,0,S,muere
+131,"Drazenoic, Mr. Jozef",33,3,male,0,C,muere
+720,"Johnson, Mr. Malkolm Joackim",33,3,male,0,S,muere
+760,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",33,1,female,0,S,vive
+413,"Minahan, Miss. Daisy E",33,1,female,1,Q,vive
+810,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",33,1,female,1,S,vive
+507,"Quick, Mrs. Frederick Charles (Jane Richards)",33,2,female,2,S,vive
+549,"Goldsmith, Mr. Frank John",33,3,male,2,S,muere
+473,"West, Mrs. Edwy Arthur (Ada Mary Worth)",33,2,female,3,S,vive
+86,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",33,3,female,3,S,vive
+124,"Webber, Miss. Susan",32.5,2,female,0,S,vive
+123,"Nasser, Mr. Nicholas",32.5,2,male,1,C,muere
+219,"Bazzani, Miss. Albina",32,1,female,0,C,vive
+191,"Pinsky, Mrs. (Rosa)",32,2,female,0,S,vive
+633,"Stahelin-Maeglin, Dr. Max",32,1,male,0,C,vive
+637,"Leinonen, Mr. Antti Gustaf",32,3,male,0,S,muere
+770,"Gronnestad, Mr. Daniel Danielsen",32,3,male,0,S,muere
+383,"Tikkanen, Mr. Juho",32,3,male,0,S,muere
+891,"Dooley, Mr. Patrick",32,3,male,0,Q,muere
+520,"Pavlovic, Mr. Stefo",32,3,male,0,S,muere
+71,"Jenkin, Mr. Stephen Curnow",32,2,male,0,S,muere
+430,"Pickard, Mr. Berk (Berk Trembisky)",32,3,male,0,S,vive
+570,"Jonsson, Mr. Carl",32,3,male,0,S,vive
+839,"Chip, Mr. Chang",32,3,male,0,S,vive
+580,"Jussila, Mr. Eiriik",32,3,male,0,S,vive
+75,"Bing, Mr. Lee",32,3,male,0,S,vive
+207,"Backstrom, Mr. Karl Alfred",32,3,male,1,S,muere
+544,"Beane, Mr. Edward",32,2,male,1,S,vive
+658,"Bourke, Mrs. John (Catherine)",32,3,female,2,Q,muere
+666,"Hickman, Mr. Lewis",32,2,male,2,S,muere
+397,"Olsson, Miss. Elina",31,3,female,0,S,muere
+798,"Osman, Mrs. Mara",31,3,female,0,S,vive
+440,"Kvillner, Mr. Johan Henrik Johannesson",31,2,male,0,S,muere
+806,"Johansson, Mr. Karl Johan",31,3,male,0,S,muere
+750,"Connaghton, Mr. Michael",31,3,male,0,Q,muere
+868,"Roebling, Mr. Washington Augustus II",31,1,male,0,S,muere
+674,"Wilhelms, Mr. Charles",31,2,male,0,S,vive
+745,"Stranden, Mr. Juho",31,3,male,0,S,vive
+216,"Newell, Miss. Madeleine",31,1,female,1,C,vive
+19,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",31,3,female,1,S,muere
+672,"Davidson, Mr. Thornton",31,1,male,1,S,muere
+691,"Dick, Mr. Albert Adrian",31,1,male,1,S,vive
+319,"Wick, Miss. Mary Natalie",31,1,female,2,S,vive
+329,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",31,3,female,2,S,vive
+802,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",31,2,female,2,S,vive
+818,"Mallet, Mr. Albert",31,2,male,2,C,muere
+638,"Collyer, Mr. Harvey",31,2,male,2,S,muere
+768,"Mangan, Miss. Mary",30.5,3,female,0,Q,muere
+815,"Tomlin, Mr. Ernest Portage",30.5,3,male,0,S,muere
+535,"Cacic, Miss. Marija",30,3,female,0,S,muere
+748,"Sinkkonen, Miss. Anna",30,2,female,0,S,vive
+521,"Perreault, Miss. Anne",30,1,female,0,S,vive
+843,"Serepeca, Miss. Augusta",30,1,female,0,C,vive
+538,"LeRoy, Miss. Bertha",30,1,female,0,C,vive
+80,"Dowdell, Miss. Elizabeth",30,3,female,0,S,vive
+258,"Cherry, Miss. Gladys",30,1,female,0,S,vive
+323,"Slayter, Miss. Hilda Mary",30,2,female,0,Q,vive
+310,"Francatelli, Miss. Laura Mabel",30,1,female,0,C,vive
+453,"Foreman, Mr. Benjamin Laventall",30,1,male,0,C,muere
+489,"Somerton, Mr. Francis William",30,3,male,0,S,muere
+214,"Givard, Mr. Hans Kristensen",30,2,male,0,S,muere
+158,"Corn, Mr. Harry",30,3,male,0,S,muere
+366,"Adahl, Mr. Mauritz Nils Martin",30,3,male,0,S,muere
+607,"Karaic, Mr. Milan",30,3,male,0,S,muere
+179,"Hale, Mr. Reginald",30,2,male,0,S,muere
+245,"Attalah, Mr. Sleiman",30,3,male,0,C,muere
+220,"Harris, Mr. Walter",30,2,male,0,S,muere
+419,"Matthews, Mr. William John",30,2,male,0,S,muere
+799,"Ibrahim Shawah, Mr. Yousseff",30,3,male,0,C,muere
+287,"de Mulder, Mr. Theodore",30,3,male,0,S,vive
+309,"Abelson, Mr. Samuel",30,2,male,1,C,muere
+254,"Lobb, Mr. William Arthur",30,3,male,1,S,muere
+800,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",30,3,female,2,S,muere
+727,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",30,2,female,3,S,vive
+731,"Allen, Miss. Elisabeth Walton",29,1,female,0,S,vive
+67,"Nye, Mrs. (Elizabeth Ramell)",29,2,female,0,S,vive
+714,"Larsson, Mr. August Viktor",29,3,male,0,S,muere
+232,"Larsson, Mr. Bengt Edvin",29,3,male,0,S,muere
+91,"Christmann, Mr. Emil",29,3,male,0,S,muere
+423,"Zimmerman, Mr. Leo",29,3,male,0,S,muere
+783,"Long, Mr. Milton Clyde",29,1,male,0,S,muere
+243,"Coleridge, Mr. Reginald Charles",29,2,male,0,S,muere
+511,"Daly, Mr. Eugene Patrick",29,3,male,0,Q,vive
+456,"Jalsevac, Mr. Ivan",29,3,male,0,C,vive
+82,"Sheerlinck, Mr. Jan Baptist",29,3,male,0,S,vive
+134,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",29,2,female,1,S,vive
+54,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",29,2,female,1,S,vive
+478,"Braund, Mr. Lewis Richard",29,3,male,1,S,muere
+362,"del Carlo, Mr. Sebastiano",29,2,male,1,C,muere
+337,"Pears, Mr. Thomas Clinton",29,1,male,1,S,muere
+118,"Turpin, Mr. William John Robert",29,2,male,1,S,muere
+252,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",29,3,female,2,S,muere
+256,"Touma, Mrs. Darwis (Hanne Youssef Razi)",29,3,female,2,C,vive
+568,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",29,3,female,4,S,muere
+736,"Williams, Mr. Leslie",28.5,3,male,0,S,muere
+58,"Novel, Mr. Mansouer",28.5,3,male,0,C,muere
+101,"Petranec, Miss. Matilda",28,3,female,0,S,muere
+636,"Davis, Miss. Mary",28,2,female,0,S,vive
+400,"Trout, Mrs. William H (Jessie L)",28,2,female,0,S,vive
+444,"Reynaldo, Ms. Encarnacion",28,2,female,0,S,vive
+757,"Carlsson, Mr. August Sigfrid",28,3,male,0,S,muere
+343,"Collander, Mr. Erik Gustaf",28,2,male,0,S,muere
+84,"Carrau, Mr. Francisco M",28,1,male,0,S,muere
+884,"Banfield, Mr. Frederick James",28,2,male,0,S,muere
+509,"Olsen, Mr. Henry Margido",28,3,male,0,S,muere
+314,"Hendekovic, Mr. Ignjac",28,3,male,0,S,muere
+170,"Ling, Mr. Lee",28,3,male,0,S,muere
+356,"Vanden Steen, Mr. Leo Peter",28,3,male,0,S,muere
+201,"Vande Walle, Mr. Nestor Cyriel",28,3,male,0,S,muere
+282,"Olsson, Mr. Nils Johan Goransson",28,3,male,0,S,muere
+563,"Norman, Mr. Robert Douglas",28,2,male,0,S,muere
+106,"Mionoff, Mr. Stoytcho",28,3,male,0,S,muere
+431,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",28,1,male,0,S,vive
+24,"Sloper, Mr. William Thompson",28,1,male,0,S,vive
+427,"Clarke, Mrs. Charles V (Ada Maria Winfield)",28,2,female,1,S,vive
+875,"Abelson, Mrs. Samuel (Hannah Wizosky)",28,2,female,1,C,vive
+35,"Meyer, Mr. Edgar Joseph",28,1,male,1,C,muere
+404,"Hakkarainen, Mr. Pekka Pietari",28,3,male,1,S,muere
+849,"Harper, Rev. John",28,2,male,1,S,muere
+424,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",28,3,female,2,S,muere
+393,"Gustafsson, Mr. Johan Birger",28,3,male,2,S,muere
+718,"Troutt, Miss. Edwina Celia ""Winnie""",27,2,female,0,S,vive
+217,"Honkanen, Miss. Eliina",27,3,female,0,S,vive
+222,"Bracken, Mr. James H",27,2,male,0,S,muere
+552,"Sharp, Mr. Percival James R",27,2,male,0,S,muere
+322,"Danoff, Mr. Yoto",27,3,male,0,S,muere
+147,"Andersson, Mr. August Edvard (""Wennerstrom"")",27,3,male,0,S,vive
+682,"Hassab, Mr. Hammad",27,1,male,0,C,vive
+822,"Lulic, Mr. Nikola",27,3,male,0,S,vive
+805,"Hedman, Mr. Oskar Arvid",27,3,male,0,S,vive
+608,"Daniel, Mr. Robert Williams",27,1,male,0,S,vive
+887,"Montvila, Rev. Juozas",27,2,male,0,S,muere
+867,"Duran y More, Miss. Asuncion",27,2,female,1,C,vive
+42,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",27,2,female,1,S,muere
+824,"Moor, Mrs. (Beila)",27,3,female,1,S,vive
+621,"Yasbeck, Mr. Antoni",27,3,male,1,C,muere
+725,"Chambers, Mr. Norman Campbell",27,1,male,1,S,vive
+9,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",27,3,female,2,S,vive
+378,"Widener, Mr. Harry Elkins",27,1,male,2,C,muere
+291,"Barber, Miss. Ellen ""Nellie""",26,1,female,0,S,vive
+316,"Nilsson, Miss. Helmina Josefina",26,3,female,0,S,vive
+3,"Heikkinen, Miss. Laina",26,3,female,0,S,vive
+871,"Balkic, Mr. Cerin",26,3,male,0,S,muere
+629,"Bostandyeff, Mr. Guentcho",26,3,male,0,S,muere
+402,"Adams, Mr. John",26,3,male,0,S,muere
+163,"Bengtsson, Mr. John Viktor",26,3,male,0,S,muere
+620,"Gavey, Mr. Lawrence",26,2,male,0,S,muere
+811,"Alexander, Mr. William",26,3,male,0,S,muere
+510,"Lang, Mr. Fang",26,3,male,0,S,vive
+890,"Behr, Mr. Karl Howell",26,1,male,0,C,vive
+208,"Albimona, Mr. Nassef Cassem",26,3,male,0,C,vive
+618,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",26,3,female,1,S,muere
+74,"Chronopoulos, Mr. Apostolos",26,3,male,1,C,muere
+705,"Hansen, Mr. Henrik Juul",26,3,male,1,S,muere
+313,"Lahtinen, Mrs. William (Anna Sylfven)",26,2,female,2,S,muere
+70,"Kink, Mr. Vincenz",26,3,male,2,S,muere
+94,"Dean, Mr. Bertram Frank",26,3,male,3,S,muere
+247,"Lindahl, Miss. Agda Thorilda Viktoria",25,3,female,0,S,muere
+786,"Harmer, Mr. Abraham (David Lishin)",25,3,male,0,S,muere
+344,"Sedgwick, Mr. Charles Frederick Waddington",25,2,male,0,S,muere
+885,"Sutehall, Mr. Henry Jr",25,3,male,0,S,muere
+694,"Saad, Mr. Khalil",25,3,male,0,C,muere
+704,"Gallagher, Mr. Martin",25,3,male,0,Q,muere
+667,"Butler, Mr. Reginald Fenton",25,2,male,0,S,muere
+795,"Dantcheff, Mr. Ristiu",25,3,male,0,S,muere
+135,"Sobey, Mr. Samuel James Hayden",25,2,male,0,S,muere
+76,"Moen, Mr. Sigurd Hansen",25,3,male,0,S,muere
+785,"Ali, Mr. William",25,3,male,0,S,muere
+272,"Tornquist, Mr. William Henry",25,3,male,0,S,vive
+730,"Ilmakangas, Miss. Pieta Sofia",25,3,female,1,S,muere
+881,"Shelley, Mrs. William (Imanita Parrish Hall)",25,2,female,1,S,vive
+443,"Petterson, Mr. Johan Emil",25,3,male,1,S,muere
+354,"Arnold-Franchi, Mr. Josef",25,3,male,1,S,muere
+729,"Bryhl, Mr. Kurt Arnold Gottfrid",25,2,male,1,S,muere
+485,"Bishop, Mr. Dickinson H",25,1,male,1,C,vive
+268,"Persson, Mr. Ernst Ulrik",25,3,male,1,S,vive
+371,"Harder, Mr. George Achilles",25,1,male,1,C,vive
+581,"Christy, Miss. Julie Rachel",25,2,female,2,S,vive
+499,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",25,1,female,3,S,muere
+686,"Laroche, Mr. Joseph Philippe Lemercier",25,2,male,3,C,muere
+677,"Sawyer, Mr. Frederick Charles",24.5,3,male,0,S,muere
+294,"Haas, Miss. Aloisia",24,3,female,0,S,muere
+200,"Yrois, Miss. Henriette (""Mrs Harbeck"")",24,2,female,0,S,muere
+346,"Brown, Miss. Amelia ""Mildred""",24,2,female,0,S,vive
+311,"Hays, Miss. Margaret Bechstein",24,1,female,0,C,vive
+711,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",24,1,female,0,C,vive
+642,"Sagesser, Mlle. Emma",24,1,female,0,C,vive
+370,"Aubart, Mme. Leontine Pauline",24,1,female,0,C,vive
+211,"Ali, Mr. Ahmed",24,3,male,0,S,muere
+90,"Celotti, Mr. Francesco",24,3,male,0,S,muere
+295,"Mineff, Mr. Ivan",24,3,male,0,S,muere
+865,"Gill, Mr. John William",24,2,male,0,S,muere
+500,"Svensson, Mr. Olof",24,3,male,0,S,muere
+771,"Lievens, Mr. Rene Aime",24,3,male,0,S,muere
+235,"Leyson, Mr. Robert William Norman",24,2,male,0,S,muere
+515,"Coleff, Mr. Satio",24,3,male,0,S,muere
+140,"Giglio, Mr. Victor",24,1,male,0,C,muere
+128,"Madsen, Mr. Fridtjof Arne",24,3,male,0,S,vive
+143,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",24,3,female,1,S,vive
+317,"Kantor, Mrs. Sinai (Miriam Sternin)",24,2,female,1,S,vive
+744,"McNamee, Mr. Neal",24,3,male,1,S,muere
+119,"Baxter, Mr. Quigg Edmond",24,1,male,1,C,muere
+395,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",24,3,female,2,S,vive
+248,"Hamalainen, Mrs. William (Anna)",24,2,female,2,S,vive
+566,"Davies, Mr. Alfred J",24,3,male,2,S,muere
+656,"Hickman, Mr. Leonard Mark",24,2,male,2,S,muere
+616,"Herman, Miss. Alice",24,2,female,3,S,vive
+601,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",24,2,female,3,S,vive
+859,"Baclini, Mrs. Solomon (Latifa Qurban)",24,3,female,3,C,vive
+342,"Fortune, Miss. Alice Elizabeth",24,1,female,5,S,vive
+438,"Richards, Mrs. Sidney (Emily Hocking)",24,2,female,5,S,vive
+297,"Hanna, Mr. Mansour",23.5,3,male,0,C,muere
+817,"Heininen, Miss. Wendla Maria",23,3,female,0,S,muere
+650,"Stanley, Miss. Amy Zillah Elsie",23,3,female,0,S,vive
+474,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",23,2,female,0,C,vive
+399,"Pain, Dr. Alfred",23,2,male,0,S,muere
+834,"Augustsson, Mr. Albert",23,3,male,0,S,muere
+136,"Richard, Mr. Emile",23,2,male,0,C,muere
+659,"Eitemiller, Mr. George Floyd",23,2,male,0,S,muere
+754,"Jonkoff, Mr. Lalio",23,3,male,0,S,muere
+735,"Troupiansky, Mr. Moses Aaron",23,2,male,0,S,muere
+351,"Odahl, Mr. Nils Martin",23,3,male,0,S,muere
+734,"Berriman, Mr. William John",23,2,male,0,S,muere
+394,"Newell, Miss. Marjorie",23,1,female,1,C,vive
+98,"Greenfield, Mr. William Bertram",23,1,male,1,C,vive
+530,"Hocking, Mr. Richard George",23,2,male,3,S,muere
+89,"Fortune, Miss. Mabel Helen",23,1,female,5,S,vive
+883,"Dahlberg, Miss. Gerda Ulrika",22,3,female,0,S,muere
+475,"Strandberg, Miss. Ida Sofia",22,3,female,0,S,muere
+709,"Cleaver, Miss. Alice",22,1,female,0,S,vive
+142,"Nysten, Miss. Anna Sofia",22,3,female,0,S,vive
+377,"Landergren, Miss. Aurora Adelia",22,3,female,0,S,vive
+290,"Connolly, Miss. Kate",22,3,female,0,Q,vive
+555,"Ohman, Miss. Velin",22,3,female,0,S,vive
+81,"Waelens, Mr. Achille",22,3,male,0,S,muere
+113,"Barton, Mr. David John",22,3,male,0,S,muere
+589,"Gilinski, Mr. Eliezer",22,3,male,0,S,muere
+396,"Johansson, Mr. Erik",22,3,male,0,S,muere
+522,"Vovk, Mr. Janko",22,3,male,0,S,muere
+213,"Perkin, Mr. John Henry",22,3,male,0,S,muere
+226,"Berglund, Mr. Karl Ivar Sven",22,3,male,0,S,muere
+244,"Maenpaa, Mr. Matti Alexanteri",22,3,male,0,S,muere
+479,"Karlsson, Mr. Nils August",22,3,male,0,S,muere
+61,"Sirayanian, Mr. Orsen",22,3,male,0,C,muere
+288,"Naidenoff, Mr. Penko",22,3,male,0,S,muere
+321,"Dennis, Mr. Samuel",22,3,male,0,S,muere
+374,"Ringhini, Mr. Sante",22,1,male,0,C,muere
+554,"Leeni, Mr. Fahim (""Philip Zenni"")",22,3,male,0,C,vive
+357,"Bowerman, Miss. Elsie Edith",22,1,female,1,S,vive
+152,"Pears, Mrs. Thomas (Edith Wearne)",22,1,female,1,S,vive
+1,"Braund, Mr. Owen Harris",22,3,male,1,S,muere
+540,"Frolicher, Miss. Hedwig Margaritha",22,1,female,2,C,vive
+324,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",22,2,female,2,S,vive
+609,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",22,2,female,3,C,vive
+502,"Canavan, Miss. Mary",21,3,female,0,Q,muere
+107,"Salkjelsvik, Miss. Anna Kristine",21,3,female,0,S,vive
+57,"Rugg, Miss. Emily",21,2,female,0,S,vive
+628,"Longley, Miss. Gretchen Fiske",21,1,female,0,S,vive
+73,"Hood, Mr. Ambrose Jr",21,2,male,0,S,muere
+174,"Sivola, Mr. Antti Wilhelm",21,3,male,0,S,muere
+422,"Charters, Mr. David",21,3,male,0,Q,muere
+625,"Bowen, Mr. David John ""Dai""",21,3,male,0,S,muere
+116,"Pekoniemi, Mr. Edvard",21,3,male,0,S,muere
+495,"Stanley, Mr. Edward Roland",21,3,male,0,S,muere
+492,"Windelov, Mr. Einar",21,3,male,0,S,muere
+38,"Cann, Mr. Ernest Charles",21,3,male,0,S,muere
+409,"Birkeland, Mr. Hans Martin Monsen",21,3,male,0,S,muere
+624,"Hansen, Mr. Henry Damsgaard",21,3,male,0,S,muere
+837,"Pasic, Mr. Jakob",21,3,male,0,S,muere
+653,"Kalvik, Mr. Johannes Halvorsen",21,3,male,0,S,muere
+52,"Nosworthy, Mr. Richard Cater",21,3,male,0,S,muere
+392,"Jansson, Mr. Carl Olof",21,3,male,0,S,vive
+403,"Jussila, Miss. Mari Aina",21,3,female,1,S,muere
+862,"Giles, Mr. Frederick Edward",21,2,male,1,S,muere
+103,"White, Mr. Richard Frasar",21,1,male,1,S,muere
+121,"Hickman, Mr. Stanley George",21,2,male,2,S,muere
+437,"Ford, Miss. Doolina Margaret ""Daisy""",21,3,female,4,S,muere
+743,"Ryerson, Miss. Susan Parker ""Suzette""",21,1,female,4,C,vive
+228,"Lovell, Mr. John Hall (""Henry"")",20.5,3,male,0,S,muere
+405,"Oreskovic, Miss. Marija",20,3,female,0,S,muere
+877,"Gustafsson, Mr. Alfred Ossian",20,3,male,0,S,muere
+132,"Coelho, Mr. Domingos Fernandeo",20,3,male,0,S,muere
+641,"Jensen, Mr. Hans Peder",20,3,male,0,S,muere
+841,"Alhomaki, Mr. Ilmari Rudolf",20,3,male,0,S,muere
+442,"Hampe, Mr. Leon",20,3,male,0,S,muere
+726,"Oreskovic, Mr. Luka",20,3,male,0,S,muere
+92,"Andreasson, Mr. Paul Edvin",20,3,male,0,S,muere
+379,"Betros, Mr. Tannous",20,3,male,0,C,muere
+683,"Olsvigen, Mr. Thor Anderson",20,3,male,0,S,muere
+13,"Saundercock, Mr. William Henry",20,3,male,0,S,muere
+763,"Barah, Mr. Hanna Assi",20,3,male,0,C,vive
+114,"Jussila, Miss. Katriina",20,3,female,1,S,muere
+665,"Lindqvist, Mr. Eino William",20,3,male,1,S,vive
+623,"Nakid, Mr. Sahid",20,3,male,2,C,vive
+428,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",19,2,female,0,S,vive
+45,"Devaney, Miss. Margaret Delia",19,3,female,0,Q,vive
+888,"Graham, Miss. Margaret Edith",19,1,female,0,S,vive
+688,"Dakic, Mr. Branko",19,3,male,0,S,muere
+68,"Crease, Mr. Ernest James",19,3,male,0,S,muere
+239,"Pengelly, Mr. Frederick William",19,2,male,0,S,muere
+576,"Patchett, Mr. George",19,3,male,0,S,muere
+567,"Stoytcheff, Mr. Ilia",19,3,male,0,S,muere
+144,"Burke, Mr. Jeremiah",19,3,male,0,Q,muere
+380,"Gustafsson, Mr. Karl Gideon",19,3,male,0,S,muere
+647,"Cor, Mr. Liudevit",19,3,male,0,S,muere
+878,"Petroff, Mr. Nedelio",19,3,male,0,S,muere
+716,"Soholt, Mr. Peter Andreas Lauritz Andersen",19,3,male,0,S,muere
+192,"Carbines, Mr. William",19,2,male,0,S,muere
+303,"Johnson, Mr. William Cahoone Jr",19,3,male,0,S,muere
+373,"Beavan, Mr. William Thomas",19,3,male,0,S,muere
+284,"Dorking, Mr. Edward Arthur",19,3,male,0,S,vive
+227,"Mellors, Mr. William John",19,2,male,0,S,vive
+193,"Andersen-Jensen, Miss. Carla Christine Nielsine",19,3,female,1,S,vive
+292,"Bishop, Mrs. Dickinson H (Helen Walton)",19,1,female,1,C,vive
+547,"Beane, Mrs. Edward (Ethel Clarke)",19,2,female,1,S,vive
+749,"Marvin, Mr. Daniel Warner",19,1,male,1,S,muere
+137,"Newsom, Miss. Helen Monypeny",19,1,female,2,S,vive
+146,"Nicholls, Mr. Joseph Charles",19,2,male,2,S,muere
+28,"Fortune, Mr. Charles Alexander",19,1,male,5,S,muere
+808,"Pettersson, Miss. Ellen Natalia",18,3,female,0,S,muere
+655,"Hegarty, Miss. Hanora ""Nora""",18,3,female,0,Q,muere
+678,"Turja, Miss. Anna Sofia",18,3,female,0,S,vive
+787,"Sjoblom, Miss. Anna Sofia",18,3,female,0,S,vive
+229,"Fahlstrom, Mr. Arne Jonas",18,2,male,0,S,muere
+386,"Davies, Mr. Charles Henry",18,2,male,0,S,muere
+689,"Fischer, Mr. Eberhard Thelander",18,3,male,0,S,muere
+145,"Andrew, Mr. Edgardo Samuel",18,2,male,0,S,muere
+676,"Edvardsson, Mr. Gustaf Hjalmar",18,3,male,0,S,muere
+835,"Allum, Mr. Owen George",18,3,male,0,S,muere
+776,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18,3,male,0,S,muere
+758,"Bailey, Mr. Percy Andrew",18,2,male,0,S,muere
+205,"Cohen, Mr. Gurshon ""Gus""",18,3,male,0,S,vive
+703,"Barbara, Miss. Saiide",18,3,female,1,C,muere
+652,"Doling, Miss. Elsie",18,2,female,1,S,vive
+50,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",18,3,female,1,S,muere
+701,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",18,1,female,1,C,vive
+856,"Aks, Mrs. Sam (Leah Rosen)",18,3,female,1,S,vive
+372,"Wiklund, Mr. Jakob Alfred",18,3,male,1,S,muere
+506,"Penasco y Castellana, Mr. Victor de Satode",18,1,male,1,C,muere
+39,"Vander Planke, Miss. Augusta Maria",18,3,female,2,S,muere
+418,"Silven, Miss. Lyyli Karoliina",18,2,female,2,S,vive
+586,"Taussig, Miss. Ruth",18,1,female,2,S,vive
+176,"Klasen, Mr. Klas Albin",18,3,male,2,S,muere
+425,"Rosblom, Mr. Viktor Richard",18,3,male,2,S,muere
+312,"Ryerson, Miss. Emily Borie",18,1,female,4,C,vive
+115,"Attalah, Miss. Malake",17,3,female,0,C,muere
+390,"Lehmann, Miss. Bertha",17,2,female,0,C,vive
+85,"Ilett, Miss. Bertha",17,2,female,0,S,vive
+845,"Culumovic, Mr. Jeso",17,3,male,0,S,muere
+164,"Calic, Mr. Jovo",17,3,male,0,S,muere
+434,"Kallio, Mr. Nikolai Erland",17,3,male,0,S,muere
+501,"Calic, Mr. Petar",17,3,male,0,S,muere
+782,"Dick, Mrs. Albert Adrian (Vera Gillespie)",17,1,female,1,S,vive
+308,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",17,1,female,1,C,vive
+722,"Jensen, Mr. Svend Lauritz",17,3,male,1,S,muere
+533,"Elias, Mr. Joseph Jr",17,3,male,2,C,muere
+551,"Thayer, Mr. John Borland Jr",17,1,male,2,C,vive
+69,"Andersson, Miss. Erna Alexandra",17,3,female,6,S,vive
+209,"Carr, Miss. Helen ""Ellen""",16,3,female,0,Q,vive
+157,"Gilnagh, Miss. Katherine ""Katie""",16,3,female,0,Q,vive
+505,"Maioni, Miss. Roberta",16,1,female,0,S,vive
+283,"de Pelsmaeker, Mr. Alfons",16,3,male,0,S,muere
+792,"Gaskell, Mr. Alfred",16,2,male,0,S,muere
+575,"Rush, Mr. Alfred George John",16,3,male,0,S,muere
+765,"Eklund, Mr. Hans Linus",16,3,male,0,S,muere
+139,"Osen, Mr. Olaf Elon",16,3,male,0,S,muere
+842,"Mudd, Mr. Thomas Charles",16,2,male,0,S,muere
+221,"Sunderland, Mr. Victor Francis",16,3,male,0,S,vive
+330,"Hippach, Miss. Jean Gertrude",16,1,female,1,C,vive
+854,"Lines, Miss. Mary Conover",16,1,female,1,S,vive
+334,"Vander Planke, Mr. Leo Edmondus",16,3,male,2,S,muere
+747,"Abbott, Mr. Rossmore Edward",16,3,male,2,S,muere
+87,"Ford, Mr. William Neal",16,3,male,4,S,muere
+267,"Panula, Mr. Ernesti Arvid",16,3,male,5,S,muere
+72,"Goodwin, Miss. Lillian Amy",16,3,female,7,S,muere
+876,"Najib, Miss. Adele Kiamie ""Jane""",15,3,female,0,C,vive
+23,"McGowan, Miss. Anna ""Annie""",15,3,female,0,Q,vive
+690,"Madill, Miss. Georgette Alexandra",15,1,female,1,S,vive
+831,"Yasbeck, Mrs. Antoni (Selini Alexander)",15,3,female,1,C,vive
+353,"Elias, Mr. Tannous",15,3,male,2,C,muere
+112,"Zabour, Miss. Hileni",14.5,3,female,1,C,muere
+15,"Vestrom, Miss. Hulda Amanda Adolfina",14,3,female,0,S,muere
+40,"Nicola-Yarred, Miss. Jamila",14,3,female,1,C,vive
+10,"Nasser, Mrs. Nicholas (Adele Achem)",14,2,female,1,C,vive
+436,"Carter, Miss. Lucile Polk",14,1,female,3,S,vive
+687,"Panula, Mr. Jaako Arnold",14,3,male,5,S,muere
+684,"Goodwin, Mr. Charles Edward",14,3,male,7,S,muere
+781,"Ayoub, Miss. Banoura",13,3,female,0,C,vive
+447,"Mellinger, Miss. Madeleine Violet",13,2,female,1,S,vive
+126,"Nicola-Yarred, Master. Elias",12,3,male,1,C,vive
+732,"Hassan, Mr. Houssein G N",11,3,male,0,C,muere
+803,"Carter, Master. William Thornton II",11,1,male,3,S,vive
+543,"Andersson, Miss. Sigrid Elisabeth",11,3,female,6,S,muere
+60,"Goodwin, Master. William Frederick",11,3,male,7,S,muere
+420,"Van Impe, Miss. Catharina",10,3,female,2,S,muere
+820,"Skoog, Master. Karl Thorsten",10,3,male,5,S,muere
+490,"Coutts, Master. Eden Leslie ""Neville""",9,3,male,2,S,vive
+166,"Goldsmith, Master. Frank John William ""Frankie""",9,3,male,2,S,vive
+853,"Boulos, Miss. Nourelain",9,3,female,2,C,muere
+148,"Ford, Miss. Robina Maggie ""Ruby""",9,3,female,4,S,muere
+635,"Skoog, Miss. Mabel",9,3,female,5,S,muere
+183,"Asplund, Master. Clarence Gustaf Hugo",9,3,male,6,S,muere
+542,"Andersson, Miss. Ingeborg Constanzia",9,3,female,6,S,muere
+481,"Goodwin, Master. Harold Victor",9,3,male,7,S,muere
+550,"Davies, Master. John Morgan Jr",8,2,male,2,S,vive
+238,"Collyer, Miss. Marjorie ""Lottie""",8,2,female,2,S,vive
+25,"Palsson, Miss. Torborg Danira",8,3,female,4,S,muere
+788,"Rice, Master. George Hugh",8,3,male,5,Q,muere
+536,"Hart, Miss. Eva Miriam",7,2,female,2,S,vive
+279,"Rice, Master. Eric",7,3,male,5,Q,muere
+51,"Panula, Master. Juha Niilo",7,3,male,5,S,muere
+752,"Moor, Master. Meier",6,3,male,1,S,vive
+721,"Harper, Miss. Annie Jessie ""Nina""",6,2,female,1,S,vive
+814,"Andersson, Miss. Ebba Iris Alfrida",6,3,female,6,S,muere
+778,"Emanuel, Miss. Virginia Ethel",5,3,female,0,S,vive
+59,"West, Miss. Constance Mirium",5,2,female,3,S,vive
+449,"Baclini, Miss. Marie Catherine",5,3,female,3,C,vive
+234,"Asplund, Miss. Lillian Gertrud",5,3,female,6,S,vive
+692,"Karun, Miss. Manca",4,3,female,1,C,vive
+870,"Johnson, Master. Harold Theodor",4,3,male,2,S,vive
+446,"Dodge, Master. Washington",4,1,male,2,S,vive
+751,"Wells, Miss. Joan",4,2,female,2,S,vive
+185,"Kink-Heilmann, Miss. Luise Gretchen",4,3,female,2,S,vive
+11,"Sandstrom, Miss. Marguerite Rut",4,3,female,2,S,vive
+619,"Becker, Miss. Marion Louise",4,2,female,3,S,vive
+172,"Rice, Master. Arthur",4,3,male,5,Q,muere
+64,"Skoog, Master. Harald",4,3,male,5,S,muere
+851,"Andersson, Master. Sigvard Harald Elias",4,3,male,6,S,muere
+194,"Navratil, Master. Michel M",3,2,male,2,S,vive
+349,"Coutts, Master. William Loch ""William""",3,3,male,2,S,vive
+408,"Richards, Master. William Rowe",3,2,male,2,S,vive
+44,"Laroche, Miss. Simonne Marie Anne Andree",3,2,female,3,C,vive
+375,"Palsson, Miss. Stina Viola",3,3,female,4,S,muere
+262,"Asplund, Master. Edvin Rojj Felix",3,3,male,6,S,vive
+206,"Strom, Miss. Telma Matilda",2,3,female,1,S,muere
+480,"Hirvonen, Miss. Hildur E",2,3,female,1,S,vive
+341,"Navratil, Master. Edmond Roger",2,2,male,2,S,vive
+531,"Quick, Miss. Phyllis May",2,2,female,2,S,vive
+298,"Allison, Miss. Helen Loraine",2,1,female,3,S,muere
+8,"Palsson, Master. Gosta Leonard",2,3,male,4,S,muere
+17,"Rice, Master. Eugene",2,3,male,5,Q,muere
+825,"Panula, Master. Urho Abraham",2,3,male,5,S,muere
+643,"Skoog, Miss. Margit Elizabeth",2,3,female,5,S,muere
+120,"Andersson, Miss. Ellis Anna Maria",2,3,female,6,S,muere
+828,"Mallet, Master. Andre",1,2,male,2,C,vive
+173,"Johnson, Miss. Eleanor Ileen",1,3,female,2,S,vive
+382,"Nakid, Miss. Maria (""Mary"")",1,3,female,2,C,vive
+789,"Dean, Master. Bertram Vere",1,3,male,3,S,vive
+184,"Becker, Master. Richard F",1,2,male,3,S,vive
+165,"Panula, Master. Eino Viljami",1,3,male,5,S,muere
+387,"Goodwin, Master. Sidney Leonard",1,3,male,7,S,muere
+306,"Allison, Master. Hudson Trevor",0.92,1,male,3,S,vive
+79,"Caldwell, Master. Alden Gates",0.83,2,male,2,S,vive
+832,"Richards, Master. George Sibley",0.83,2,male,2,S,vive
+645,"Baclini, Miss. Eugenie",0.75,3,female,3,C,vive
+470,"Baclini, Miss. Helene Barbara",0.75,3,female,3,C,vive
+756,"Hamalainen, Master. Viljo",0.67,2,male,2,S,vive
+804,"Thomas, Master. Assad Alexander",0.42,3,male,1,C,vive
