@@ -40,8 +40,9 @@ modelo1<-rpart(ESTIMADOS_SINTOMAS~.,
 importanciaV<-varImp(modelo1)
 print(importanciaV)
 
-#vemos el resultado falta*
-rpart.plot(modelo1,type=4)
+#vemos el resultado 
+#con cex se aumenta el tamano de letra
+rpart.plot(modelo1,type=4,cex=0.7)
 
 
 
