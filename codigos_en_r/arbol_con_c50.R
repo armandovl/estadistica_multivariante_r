@@ -1,12 +1,19 @@
 
 #..................Traer e inspeccionar los datos...................
 Datos1<-read.csv("bases_de_datos/atitanic.csv") #traemos el dataframe
+
+
+#..Traer los datos desde github
+miURL="https://raw.githubusercontent.com/armandovl/estadistica_multivariante_r/main/bases_de_datos/atitanic.csv"
+Datos1<-read.csv(url(miURL))
+
+
 head(Datos1,10) #primeros 10 registros
 str(Datos1) #estructura de los datos
 
 #................. Tratamiento de los datos........................
-Datos1$Pclass=as.factor(Datos1$Pclass) #Transformar caracter a factor
 Datos1$Survived=as.factor(Datos1$Survived) #Transformar caracter a factor
+Datos1$Pclass=as.factor(Datos1$Pclass) #Transformar caracter a factor
 Datos1$Sex=as.factor(Datos1$Sex) #Transformar caracter a factor
 Datos1$Embarked=as.factor(Datos1$Embarked) #Transformar caracter a factor 
 
