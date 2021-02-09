@@ -29,9 +29,8 @@ str(Datos1) #estructura de los datos
 library(C50)
 modelo_c50<-C5.0(Datos1[,c(1:5)],Datos1$Survived)
 
-plot(modelo_c50) #igual no funciona el cex=1
+plot(modelo_c50) # cex=1 no aplica font size
 summary(modelo_c50)
-
 #importancia del modelo
 #install.packages("caret")
 library(caret)
