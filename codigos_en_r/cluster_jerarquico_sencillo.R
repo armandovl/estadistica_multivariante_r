@@ -1,12 +1,18 @@
 
+#agregamos la base de datos
 datos<-read.csv("bases_de_datos/ejemplo_estudiantes.csv", 
-                row.names = 1, 
-                header=TRUE,
-                sep=",",
-                dec=".")
+                #en esta ìneale agregamos los nombres
+                row.names = 1,
+                # estàs lìneas no importan mucho
+                header=TRUE, #encabezados primera fila
+                sep=",", #separador por comas
+                dec=".") #los decimales con un punto
 
+#creamos el modelo
 modelo<-hclust(dist(datos), method = "ward.D2")
 
+#graficamos el modelo
 plot(modelo)
 
+#dividimos de acuerdo a los grupos que decidamos (3)
 rect.hclust(modelo, k=3, border="magenta")
