@@ -27,3 +27,12 @@ plot(modelo)
 
 #dividimos de acuerdo a los grupos que decidamos (3)
 rect.hclust(modelo, k=3, border="magenta")
+
+
+
+#Guardar la base de los estudiantes con su cluster
+clusters_asignados<-cutree(modelo, k=3)
+base_con_cluster<-cbind(datos , clusters_asignados)
+write.csv(base_con_cluster ,"bases_de_datos/base_con_cluster.csv")
+
+
